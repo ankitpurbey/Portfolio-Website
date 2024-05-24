@@ -306,7 +306,7 @@ img {
   border-radius: 0.5rem;
 }
 
-/* ===== WORK =====*/
+/* ===== Project =====*/
 .work__container {
   row-gap: 2rem;
 }
@@ -321,7 +321,10 @@ img {
 .work__img img:hover {
   transform: scale(1.1);
 }
-
+.work section , p{
+  text-align: center;
+  text-decoration: solid;
+}
 /* ===== CONTACT =====*/
 .contact__input {
   width: 100%;
